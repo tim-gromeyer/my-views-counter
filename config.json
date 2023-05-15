@@ -3,6 +3,9 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "VoiceAssistant",
+    "MarkdownEdit",
+    "html2md",
+    "Website"
   ]
 }
