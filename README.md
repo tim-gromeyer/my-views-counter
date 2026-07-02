@@ -53,22 +53,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/tim-gromeyer/my-views-counter/tree/master/readme/960029200/year.md">
-				TV-Killer
-			</a>
-		</td>
-		<td>
-			2026/6/30 2:52 AM UTC
-		</td>
-		<td>
-			89
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tim-gromeyer/my-views-counter/raw/master/graph/960029200/small/year.png" height="20"> 250
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/tim-gromeyer/my-views-counter/tree/master/readme/963258685/year.md">
 				sponsorblock-podcast
 			</a>
@@ -85,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/2 1:48 PM UTC</i></small>
+<small><i>Last updated on 2026/7/2 7:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
