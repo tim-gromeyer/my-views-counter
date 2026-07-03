@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/6/30 12:00 AM UTC
+			2026/7/1 2:58 AM UTC
 		</td>
 		<td>
 			633
@@ -42,13 +42,29 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/6/30 12:00 AM UTC
+			2026/7/1 12:00 AM UTC
 		</td>
 		<td>
-			2975
+			2980
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/tim-gromeyer/my-views-counter/raw/master/graph/544543209/small/year.png" height="20"> 6355
+			<img alt="Response time graph" src="https://github.com/tim-gromeyer/my-views-counter/raw/master/graph/544543209/small/year.png" height="20"> 6362
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/tim-gromeyer/my-views-counter/tree/master/readme/960029200/year.md">
+				TV-Killer
+			</a>
+		</td>
+		<td>
+			2026/7/1 2:58 AM UTC
+		</td>
+		<td>
+			89
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/tim-gromeyer/my-views-counter/raw/master/graph/960029200/small/year.png" height="20"> 250
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/6/30 2:52 AM UTC
+			2026/7/1 2:58 AM UTC
 		</td>
 		<td>
 			14
@@ -69,7 +85,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/2 7:17 PM UTC</i></small>
+<small><i>Last updated on 2026/7/3 2:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
